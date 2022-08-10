@@ -1,0 +1,24 @@
+h1 {
+    color: gold; background-color: brown;display: inline;
+}
+body{
+    background-color: hotpink;
+}
+
+table, th, td {
+    border: 1px solid;
+    
+
+}
+footer{
+    background-color: blue;display: inline-block;
+}
+
+
+  
+    
+
+
+
+
+
